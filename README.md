@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @logic-n-lines
+- 👋 Hi, I’m Vandana Singh
 - 👀 I’m interested in Visualization Tools
 - 🌱 I’m currently learning SQL and Python
 - 💞️ I’m looking to collaborate and learn together
